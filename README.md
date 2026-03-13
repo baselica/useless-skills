@@ -26,6 +26,10 @@ Invoke any skill by typing its name as a slash command in Claude Code:
 
 ## Skills
 
+### `/ts-overcomplicate`
+
+Rewrites TypeScript into maximally convoluted, over-engineered TypeScript. Deeply nested conditional types, recursive mapped types, template literal parsing for no reason, phantom brands, HKT simulation, and `infer` used in places that should be crimes. Semantics preserved. Dignity: gone.
+
 ### `/ulysses-doc-gen`
 
 Transforms technical documentation into James Joyce's Ulysses style — stream-of-consciousness READMEs, catechistic API references, and Molly Bloom installation guides. Technical accuracy preserved, buried in the riverrun of the prose.
