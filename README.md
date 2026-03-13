@@ -26,6 +26,10 @@ Invoke any skill by typing its name as a slash command in Claude Code:
 
 ## Skills
 
+### `/spring-boot-village-idiot`
+
+Rewrites Java and Spring Boot as if authored by a village idiot on their twentieth beer. FactoryFactoryBeans, six annotations per class, interfaces implemented exactly once, XML config for the vibes, and Javadoc that ends mid-sentence with a TODO from 2014. Should theoretically start up if you squint.
+
 ### `/ts-overcomplicate`
 
 Rewrites TypeScript into maximally convoluted, over-engineered TypeScript. Deeply nested conditional types, recursive mapped types, template literal parsing for no reason, phantom brands, HKT simulation, and `infer` used in places that should be crimes. Semantics preserved. Dignity: gone.
