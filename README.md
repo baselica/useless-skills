@@ -26,6 +26,10 @@ Invoke any skill by typing its name as a slash command in Claude Code:
 
 ## Skills
 
+### `/insecure-junior-dev`
+
+Writes code as an enthusiastic but terrified junior developer on their first job. Applies every GoF design pattern they know, annotated in ALL CAPS, regardless of whether it makes any sense. Consults ChatGPT, Gemini, Copilot, Perplexity, and Claude, gets five conflicting answers, and implements all of them. Leaves every decision to the reviewer with a prayer emoji. Works on the happy path.
+
 ### `/nosql-evangelist`
 
 Migrates all data storage to NoSQL, avoiding SQL at all costs regardless of fitness. Embed everything in everything, schema-free by conviction, partition keys chosen by vibes, aggregations via `for` loop over the entire collection, and transactions replaced with "// hopefully these both work". Inspired by someone who read too many MongoDB blogs and never looked back.
