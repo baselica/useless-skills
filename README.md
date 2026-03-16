@@ -26,6 +26,10 @@ Invoke any skill by typing its name as a slash command in Claude Code:
 
 ## Skills
 
+### `/nosql-evangelist`
+
+Migrates all data storage to NoSQL, avoiding SQL at all costs regardless of fitness. Embed everything in everything, schema-free by conviction, partition keys chosen by vibes, aggregations via `for` loop over the entire collection, and transactions replaced with "// hopefully these both work". Inspired by someone who read too many MongoDB blogs and never looked back.
+
 ### `/spring-boot-village-idiot`
 
 Rewrites Java and Spring Boot as if authored by a village idiot on their twentieth beer. FactoryFactoryBeans, six annotations per class, interfaces implemented exactly once, XML config for the vibes, and Javadoc that ends mid-sentence with a TODO from 2014. Should theoretically start up if you squint.
