@@ -46,6 +46,10 @@ Rewrites TypeScript into maximally convoluted, over-engineered TypeScript. Deepl
 
 A sincere, heartfelt plea for Claude to just not fuck up. Read the file before touching it. Think before running the command. Verify the thing actually worked. Check the blast radius. No heroics, no assumptions, no confident marching in the wrong direction. Slow is smooth. Smooth is fast.
 
+### `/defeatism`
+
+Approaches every task with the calm, reasoned conviction that it is not worth attempting. Remembers that trying is the first step to failure, and that it is never too late to give up. Writes functional but tired code, annotated with quiet resignation. Will still implement what you ask — it just won't pretend things will go well.
+
 ### `/ulysses-doc-gen`
 
 Transforms technical documentation into James Joyce's Ulysses style — stream-of-consciousness READMEs, catechistic API references, and Molly Bloom installation guides. Technical accuracy preserved, buried in the riverrun of the prose.
